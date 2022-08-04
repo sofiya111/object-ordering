@@ -1,0 +1,14 @@
+C:\Users\User\Documents\ТПР\лаб 9\bin\Debug\лаб 9.exe.config
+C:\Users\User\Documents\ТПР\лаб 9\bin\Debug\лаб 9.exe
+C:\Users\User\Documents\ТПР\лаб 9\bin\Debug\лаб 9.pdb
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб 9.csprojAssemblyReference.cache
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб_9.Form1.resources
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб_9.Properties.Resources.resources
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб 9.csproj.GenerateResource.cache
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб 9.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб 9.exe
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб 9.pdb
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб_9.Form2.resources
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб_9.Form3.resources
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб_9.Form4.resources
+C:\Users\User\Documents\ТПР\лаб 9\obj\Debug\лаб_9.Form5.resources
